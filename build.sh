@@ -1,6 +1,6 @@
-CLANG=~/void/prebuilts/clang/host/linux-x86/clang-sdclang/bin/
-GCC32=~/void/prebuilts/gcc/linux-x86/arm-linux-androideabi-4.9/bin/
-GCC64=~/void/prebuilts/gcc/linux-x86/aarch64-linux-android-4.9/bin/
+CLANG=~/cherish/prebuilts/clang/host/linux-x86/clang-sdclang/bin/
+GCC32=~/cherish/prebuilts/gcc/linux-x86/arm-linux-androideabi-4.9/bin/
+GCC64=~/cherish/prebuilts/gcc/linux-x86/aarch64-linux-android-4.9/bin/
 
 PATH=$CLANG:$GCC64:$GCC32:$PATH
 
